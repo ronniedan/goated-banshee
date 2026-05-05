@@ -1,13 +1,3 @@
-# CHIMERA Name
+# Goated Banshee
 
-This text appears in the overlay opened by the `ABOUT` label. Click `X` to close and return to the 3D view.
-
-Placeholder text for layout testing: Chimera research unfolds across fragmented memories, synthetic anatomies, and speculative rituals that merge archival traces with generated futures. This project explores hybrid embodiment through digital sculpture, moving between mythological residue and machine perception. Each form behaves like a temporary host: unstable, layered, and responsive to context. The narrative remains intentionally open, inviting interpretation through ambiguity and transformation.
-
-
-
-PS: You can use Markdown formatting, for example:
-
-- Bullet lists
-- **Bold text**
-- *Italic text*
+The banshee, a figure in Irish mythology, warns families of death with her distinctive wail. It was also believed that if she threw her comb at you, your death would be imminent. Goated Banshee holds the Bachal Isu, known as the staff of Saint Patrick, tnat was a symbol of power so great in Ireland, that it had to be destroyed. A lot of Irish mythological creatures have hooved/goats feet, notably the Púca, a mischievous shapeshifter (thought to have inspired Shakespeare's Puck in Midsummer Night's Dream). There is also Glaistig, often described as a hybrid fairy or water spirit that is half-woman, half-goat. Creatures like the Púca can take on the form of a fairy (although Irish Fairies are not the small winged creatures of popular folklore)
